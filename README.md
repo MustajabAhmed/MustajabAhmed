@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustajab Ahmed</h1>
-<h3 align="center">A laravel developer, a perpetual student majoring in Software Enginnering..</h3>
+<h3 align="center">A laravel developer, a student of Software Enginnering..</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Laravel projects](https://MustajabAhmed.github.io/)
