@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **learning open source contribution**
 
-- 💬 Ask me about **Laravel, APIs, Bootstrap, JavaScript, Backend Development**
+- 💬 Ask me about **Backend, Laravel, APIs, JavaScript, Typescript, NEXT.js**
 
 - 📫 How to reach me **mustajabahmed02@gmail.com**
 
