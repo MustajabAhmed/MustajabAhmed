@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Mustajab Ahmed</h1>
+<h1 align="center">Hi 👋, I am Mustajab Ahmed</h1>
 <h3 align="center">I am a Student, Software Engineer, and Developer. My interests range from BlockChain, and serverless computing to Edge Computing. I am also interested in Music and Fashion.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
