@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **learning open source contribution**
 
-<!-- - 💬 Ask me about **Backend, Laravel, APIs, JavaScript, Typescript, NEXT.js** -->
+<!-- - 💬 Ask me about **Backend, Laravel, API, JavaScript, Typescript, NEXT.js** -->
 
 - 💬 Ask me about **Backend Development, Laravel, APIs, JQuery**
 
