@@ -36,7 +36,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustajabAhmed&layout=compact&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MustajabAhmed&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MustajabAhmed&layout=compact&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MustajabAhmed&theme=dark)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MustajabAhmed&layout=compact&theme=radical)](https://git.io/streak-stats) -->
 
  
 
