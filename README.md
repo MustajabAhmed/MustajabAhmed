@@ -51,11 +51,11 @@
 
 ## 👀 Visitors  
 <p align="center">
-  <img src="https://count.getloli.com/get/@MustajabAhmed?theme=moebooru" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=MustajabAhmed&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
 <!--
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MustajabAhmed&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://count.getloli.com/get/@MustajabAhmed?theme=moebooru" alt="visitor counter" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MustajabAhmed&label=Visitors&color=blueviolet&style=flat-square" alt="Profile Views" />
