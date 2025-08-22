@@ -62,4 +62,4 @@
 
 ---
 
-<h3 align="center">❤️ Show some love by starring repositories!</h3>
+### <h2><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p> </h2>
