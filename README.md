@@ -57,7 +57,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MustajabAhmed&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MustajabAhmed&label=Visitors&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
