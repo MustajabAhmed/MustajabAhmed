@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🚀 About Me  
-- 🎓 Software Engineer with **2+ years of experience** in backend development.  
+- 🎓 Software Engineer with **3+ years of experience** in backend development.  
 - 🔭 Currently working on **scalable Laravel applications** (APIs, e-commerce, booking systems).  
 - 🌱 Learning **Advanced Laravel, System Design, Cloud & Serverless Computing**.  
 - 👯 Open to collaborating on **open source projects** and real-world problem-solving.  
